@@ -1,0 +1,314 @@
+
+#conteneurzero{
+    height: 100%;
+    width: 100%;
+    background-color:rgb(241, 241, 235);
+    
+
+}
+#entete{
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin-bottom: 14%;
+}
+#quatre{
+    text-align: center;
+ font-size: 2.7em;
+ color: white;
+ margin-right: 4.5%;
+}
+#cinq{
+    text-align: center;
+    font-size: 2.7em;
+    color: white;
+    margin-right: 14.5%;
+}
+#six{
+    display: flex;
+    justify-content: center;
+    margin-right: 14.5%;
+
+
+}
+
+#neuf{
+    text-align: center;
+}
+#dix{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.onze{
+    margin-bottom: 10px;
+    font-size: 2.7em;
+}
+header{
+    background-image: url(Image20220126142257.jpg) ;
+    height: 900px;
+}
+#bouton1{
+    background: none;
+    border: none;
+}
+.trois{
+    margin-right: 240px;
+}
+.un{
+    word-spacing: 100px;
+}
+input{
+    color: white;
+}
+#bouton2{
+    background-color: rgb(73, 60, 194);
+    border-radius: 4px;
+}
+#bouton3{
+    background-color:#F2F2F2;
+    border-radius: 4px;
+}
+.douze{
+    margin-bottom: 10px;
+}
+#quatorze{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5px;
+
+}
+#dixhuit{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5px;
+}
+.quinze{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+
+}
+.seize{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.dixsept{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+
+}
+.dixneuf{
+  background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+  
+}
+.vingt{
+    background-color: white;  
+    padding: 10px;
+    border-radius: 10px;
+}
+.vingtetun{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.photodingue{
+width: 100%;
+height: auto;
+border-radius: 10px;
+}
+.textegras{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bolder ;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.photoordi{
+    width: 100%;
+    height: auto;
+}
+#vingtdeux{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.texteordi{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bolder ;
+    text-align: center;
+    font-size: 2.7em;
+
+}
+.decalage{
+    background-color: white;
+}
+.photoicone{
+    width: 70%;
+    height: auto;
+    margin-left: 20px;
+}
+#vingtquatre{
+    display: flex;
+    justify-content: space-around;
+}
+.texteicone{
+    display: flex;
+    width: 150px;
+    height: auto;
+}
+#vingtcinq{
+    margin:auto
+}
+
+#vingthuit{
+    display: flex;
+    justify-content: space-around;
+  
+
+}
+#trentedeux{
+    display: flex;
+    background-color:
+    #F2F2F2;
+}
+.photoordicomplet{
+    width: 100%;
+    height: auto;
+    padding-left: 350px;
+    padding-top: 80px;
+}
+.texteordideux{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bolder ;
+    font-size: 2.7em;
+    white-space: nowrap;
+    margin-left: 135px;
+}
+.textegrasdeux{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bolder ;
+    text-align: center;
+
+}
+.texteiconedeux{
+    display: flex;
+    margin-left: 230px;
+    height: auto;
+}
+#bouton4{
+    background-color: rgb(73, 60, 194);
+    height: 40px;
+    width: 150px;
+    margin-left:260px ;
+}
+.trenteneuf{
+    text-align: center;
+}
+.iconeronde{
+    height: auto;
+    width: 40px;
+}
+.texteorditrois{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bolder ;
+    font-size: 2.7em;
+  
+    margin-left: 135px;
+}
+.texteiconetrois{
+    text-align: center;
+    margin-left:500px ;
+    margin-right:500px ;
+    margin-top: 50px;
+    margin-bottom:150px ;
+}
+#quarante{
+    display: flex;
+    justify-content: center;
+    background-color: #F2F2F2;
+    height: 120px;
+margin-top: 40px;
+
+    
+}
+#bouton5{
+    background-color: rgb(73, 60, 194);
+    height: 45px;
+    width: 120px;
+
+}
+#mail{
+    height: 40px;
+    width: 300px;
+
+}
+.texteiconecinq{
+    margin-right: 50px;
+    font-size: 1.4em;
+}
+.quaranteetun{
+    margin-top: 30px;
+    font: bold;
+}
+.quarantedeux{
+    margin-top: 30px;
+}
+#ocean{
+    color: black;
+    height: 35px;
+    width: 500px;
+}
+#quarantetrois{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 300px;
+    margin-right: 500px;
+    
+}
+.texteiconesix{
+    font: bolder;
+    font-size: 1.2rem;
+}
+
+.fin{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.scroll{
+    height: 40px;
+    width: 40px;
+    margin-top: 445px;
+}
+.svg-inline--fa{
+    height: 30px;
+    width: auto;
+    background-color:white ;
+    margin-top: 445px;
+}
+.fa{
+    margin-right: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
